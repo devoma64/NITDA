@@ -1,0 +1,3 @@
+Hello there!
+Learn how to read file in python
+I will teach you it is quite simple 
